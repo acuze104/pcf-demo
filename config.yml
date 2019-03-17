@@ -1,4 +1,2 @@
-{
-  "BaseDataUri": "value1_from_man",
-  "FetchInterval": -1,
-}
+BaseDataUri: value1_from_man
+FetchInterval: -1
