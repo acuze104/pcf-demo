@@ -2,4 +2,4 @@ info:
   description: 2222 Finally Spring Cloud Samples
   url: https://github.com/spring-cloud-samples
 foo: 222  baz arnold
-mainDBConnectionString: maindb
+mainDBConnectionString: Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;
