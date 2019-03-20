@@ -2,4 +2,35 @@ info:
   description: 2222 Finally Spring Cloud Samples
   url: https://github.com/spring-cloud-samples
 foo: arnold
+
 mainDBConnectionString: FROM APPlication.yml file Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;
+AutoSmart: AutoSmart Config
+Main: MainDB Config
+Item: ItemDB
+ItemSearch: ItemSearchDB
+Vendor: VendorDB
+InventoryLog: InventoryLogDB
+Logging: LoggingDB
+CUDLDiag: CUDLDiagDB
+CUDLDiag.Database.Connection: CUDLDiag.Database.ConnectiondB
+DealerPortal: DealerPortalDB
+AutoSmartReporting: AutoSmartReportingDB
+
+Toolkit.SsoAccount.Url: Toolkit.SsoAccount.Url
+Toolkit.SsoDomainManual.Url: Toolkit.SsoDomainManual.Url
+Toolkit.SsoApplication.Url: Toolkit.SsoApplication.Url
+Toolkit.SsoDomainWindows.Url: Toolkit.SsoDomainWindows.Url
+ServiceAccount.Name: ServiceAccount.Name
+ServiceAccount.Password: ServiceAccount.Password
+Security.Admin.svc.URL: Security.Admin.svc.URL
+ActionLoggingAPIURL: ActionLoggingAPIURL
+AutoSmartClientsAPIUrl: AutoSmartClientsAPIUrl
+CreditUnionAPIURL: CreditUnionAPIURL
+CreditUnionApiUrlVS2: CreditUnionApiUrlVS2
+DealerAPIURLVS2: DealerAPIURLVS2
+AutoSmartSystemTypesAPIURL: AutoSmartSystemTypesAPIURL
+AutoSmartInventoryAPIUrl: AutoSmartInventoryAPIUrl
+AutoSmartReportingAPIUrl: AutoSmartReportingAPIUrl
+HealthStatusPostUrl: HealthStatusPostUrl
+Partner.DealerRater.Access.Token: Partner.DealerRater.Access.Token
+Partner.DealerRater.Url: Partner.DealerRater.Url
