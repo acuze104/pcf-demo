@@ -3,16 +3,16 @@ info:
   url: https://github.com/spring-cloud-samples
 foo: arnold
 
-mainDBConnectionString: FROM APPlication.yml file Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;
-AutoSmart: AutoSmart Config
-Main: MainDB Config
-Item: ItemDB
-ItemSearch: ItemSearchDB
-Vendor: VendorDB
-InventoryLog: InventoryLogDB
-Logging: LoggingDB
-CUDLDiag: CUDLDiagDB
-CUDLDiag.Database.Connection: CUDLDiag.Database.ConnectiondB
+mainDBConnectionString: "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=MainDB;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+AutoSmart:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=AutoSmart;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+Main:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=Main;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+Item: "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=Item;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+ItemSearch: "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=ItemSearch;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+Vendor:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=Vendor;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+InventoryLog:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=InventoryLog;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+Logging:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=Logging;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+CUDLDiag:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=CUDLDiag;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
+CUDLDiag.Database.Connection:  "Data Source=np-amsql-smi.1afdecf481e7.database.windows.net,1433; Initial Catalog=CudlDiag;User ID=amsql_NonProd_SA;Password=xcYVwax60qbmkMgLGsGD"
 DealerPortal: DealerPortalDB
 AutoSmartReporting: AutoSmartReportingDB
 
